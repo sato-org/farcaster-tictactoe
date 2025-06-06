@@ -1,0 +1,7 @@
+{
+  "name": "Tic Tac Toe Frame",
+  "description": "A simple Tic Tac Toe game playable on Farcaster",
+  "version": "1.0",
+  "homepage": "https://farcaster-tictactoe.vercel.app",
+  "frame": true
+}
